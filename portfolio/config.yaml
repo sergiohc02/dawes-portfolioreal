@@ -1,0 +1,23 @@
+baseURL: localhost
+languageCode: es-es
+title: PORTFOLIO
+theme: personal-web
+copyright: "© Sergio Hueso"
+
+
+intro:
+  main : "Hola!!, este es el currículum personal de Sergio Hueso Celma"
+  sub : "Soy desarrolador web"
+
+
+sections:
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post : "article"
+  portfolio : "project"
+
+social:
+  github : "https://github.com/sergiohc02/daw-sergiohc02"
+  twitter : "https://twitter.com/sergiohc02"
+  youtube : "https://www.youtube.com/channel/UC_7A1p11Kn5OOr9Xdv2Pjsw"
+  instagram : "https://www.instagram.com/sergiohc02/"
